@@ -29,5 +29,5 @@ It uses the **microsoft/DialoGPT-medium** model to generate conversational respo
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/streamlit_chatbot.git
-cd streamlit_chatbot
+git clone https://github.com/G-ANIL-KUMAR-GOUD/SwechaBot.git
+cd SwechaBot
