@@ -1,0 +1,11 @@
+# Python cache
+_pycache_/
+*.pyc
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Hugging Face / PyTorch model cache
+*.bin
+*.pt
+*.msgpack
